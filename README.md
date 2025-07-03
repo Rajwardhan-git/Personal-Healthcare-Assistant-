@@ -33,6 +33,6 @@ A smart, AI-powered Personal Healthcare Assistant built using Flask, Machine Lea
 ---
 
 ## 👨‍💻 Author
-- Nikhil Goral
+- Rajwardhan Patil
 - B.Tech Data Science Student
-- 📫 [LinkedIn](www.linkedin.com/in/nikhil-goral-340266259)
+
